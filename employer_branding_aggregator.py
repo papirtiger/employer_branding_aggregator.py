@@ -27,7 +27,8 @@ def fetch_rss(url):
 def scrape_website(url, article=None, title=None, description=None, link=None):
     logging.info(f"Scraping website {url}")
     try:
-        response = requests.get(url)
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
         soup = BeautifulSoup(response.text, 'html.parser')
         
         if article:
@@ -45,8 +46,11 @@ def scrape_website(url, article=None, title=None, description=None, link=None):
                 link_url = url + link_url
             results.append(f"Headline: {title_text}\nDescription: {description_text}\nLink: {link_url}\n")
         return "\n".join(results)
-    except Exception as e:
+    except requests.RequestException as e:
         logging.error(f"Error scraping website {url}: {str(e)}")
+        return ""
+    except Exception as e:
+        logging.error(f"Unexpected error scraping website {url}: {str(e)}")
         return ""
 
 def is_relevant(text, keywords):
@@ -62,6 +66,7 @@ def detect_language(text):
     try:
         return detect(text)
     except LangDetectException:
+        logging.warning(f"Could not detect language for text: {text[:100]}...")
         return "unknown"
 
 def main():
