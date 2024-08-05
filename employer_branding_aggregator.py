@@ -5,10 +5,13 @@ from bs4 import BeautifulSoup
 import time
 from datetime import datetime
 from langdetect import detect, LangDetectException
+from requests.exceptions import RequestException
+from retry import retry
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
+@retry(exceptions=RequestException, tries=3, delay=2, backoff=2)
 def fetch_rss(url):
     logging.info(f"Fetching RSS from {url}")
     try:
@@ -24,6 +27,7 @@ def fetch_rss(url):
         logging.error(f"Error fetching RSS from {url}: {str(e)}")
         return ""
 
+@retry(exceptions=RequestException, tries=3, delay=2, backoff=2)
 def scrape_website(url, article=None, title=None, description=None, link=None):
     logging.info(f"Scraping website {url}")
     try:
@@ -46,9 +50,9 @@ def scrape_website(url, article=None, title=None, description=None, link=None):
                 link_url = url + link_url
             results.append(f"Headline: {title_text}\nDescription: {description_text}\nLink: {link_url}\n")
         return "\n".join(results)
-    except requests.RequestException as e:
+    except RequestException as e:
         logging.error(f"Error scraping website {url}: {str(e)}")
-        return ""
+        raise
     except Exception as e:
         logging.error(f"Unexpected error scraping website {url}: {str(e)}")
         return ""
@@ -132,18 +136,33 @@ def main():
     
     for source in sources:
         logging.info(f"Processing source: {source['url']}")
-        output += f"From source: {source['url']}\n"
-        if source['type'] == 'rss':
-            content = fetch_rss(source['url'])
-        else:
-            content = scrape_website(source['url'], **source.get('selectors', {}))
+        try:
+            if source['type'] == 'rss':
+                content = fetch_rss(source['url'])
+            else:
+                content = scrape_website(source['url'], **source.get('selectors', {}))
+            
+            if not content:
+                logging.warning(f"No content retrieved from {source['url']}")
+                continue
+            
+            relevant_items = []
+            for item in content.split('\n\n'):
+                lang = detect_language(item)
+                if lang in ['en', 'da'] and is_relevant(item, keywords[lang]):
+                    category = categorize_content(item, {cat: kw[lang] for cat, kw in category_keywords.items()})
+                    relevant_items.append(f"Language: {lang.upper()}\nCategory: {category}\n{item}")
+            
+            if relevant_items:
+                output += f"From source: {source['url']}\n"
+                output += "\n---\n".join(relevant_items) + "\n\n"
+            else:
+                logging.info(f"No relevant content found from {source['url']}")
+            
+        except Exception as e:
+            logging.error(f"Error processing {source['url']}: {str(e)}")
         
-        # Detect language, filter content for relevance and categorize
-        for item in content.split('\n\n'):
-            lang = detect_language(item)
-            if lang in ['en', 'da'] and is_relevant(item, keywords[lang]):
-                category = categorize_content(item, {cat: kw[lang] for cat, kw in category_keywords.items()})
-                output += f"Language: {lang.upper()}\nCategory: {category}\n{item}\n---\n\n"
+        time.sleep(1)  # Rate limiting
     
     with open('multilingual_employer_branding_updates.txt', 'w', encoding='utf-8') as f:
         f.write(output)
