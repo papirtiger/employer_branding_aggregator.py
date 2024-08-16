@@ -1,16 +1,17 @@
-Multilingual Employer Branding and Talent Attraction Updates - 2024-08-15 09:21:15
+Multilingual Employer Branding and Talent Attraction Updates - 2024-08-16 09:23:55
 
 From source: https://www.personneltoday.com/feed/
 Language: EN
 Category: Other
-Headline: Personnel Today Awards 2024: Talent Acquisition Partner of the Year shortlist
-Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2023/11/HealthSectorTalent-Personnel-Today-Award-Winners-2023-low-res-038-Talent-Acquisition-Pa...
-Link: https://www.personneltoday.com/hr/personnel-today-awards-2024-talent-acquisition-partner-of-the-year-shortlist/
+Headline: Addressing the widening skills gaps in mid-sized organisations (webinar)
+Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2024/08/1200x675-skills-gaps-webinar-shutterstock_2048828078-1.png" width="90%" /></div>
+<div><...
+Link: https://www.personneltoday.com/hr/skills-gaps-webinar/
 
 From source: https://www.hrdive.com/feeds/news/
 Language: EN
-Category: Other
-Headline: Workers say they prefer hybrid flexibility, but employers need to ask preferences
-Description: <p>Employers are still wrangling with what flexibility will look like moving forward as worksite location remains an evolving part of talent management conversations.</p>
-Link: https://www.hrdive.com/news/workers-prefer-hybrid-flexibility-input/724081/
+Category: Research
+Headline: Employees have forged ahead with generative AI while companies lag behind, McKinsey finds
+Description: <p>To capitalize on employees&rsquo; enthusiasm about AI tools,&nbsp;organizations need to reimagine&nbsp;talent management, McKinsey researchers said.</p>
+Link: https://www.hrdive.com/news/employee-AI-adoption-outpace-employers/724200/
 
