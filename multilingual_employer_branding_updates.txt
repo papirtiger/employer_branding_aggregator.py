@@ -1,9 +1,30 @@
-Multilingual Employer Branding and Talent Attraction Updates - 2024-09-23 09:26:41
+Multilingual Employer Branding and Talent Attraction Updates - 2024-09-24 09:24:36
 
 From source: https://www.personneltoday.com/feed/
 Language: EN
 Category: Other
-Headline: Personnel Today Awards 2024 shortlist: Workplace culture
-Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2023/11/Iris-Software-Group-Personnel-Today-Award-Winners-2023-low-res-024-Workplace-Culture-Aw...
-Link: https://www.personneltoday.com/hr/personnel-today-awards-2024-shortlist-workplace-culture-award/
+Headline: How HR can build a future-ready workforce amid uncertainty
+Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2024/09/shutterstock_2476283777-1.jpg" width="90%" /></div>
+<div>Successful talent management t...
+Link: https://www.personneltoday.com/hr/how-hr-leaders-can-build-a-future-ready-workforce-amid-uncertainty/
+---
+Language: EN
+Category: Campaigns
+Headline: Employee Benefits Live 2024 conference programme unveiled
+Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2024/09/EB-Live-conference-2024-0Y0A1223RedRabbitEB2023.jpg" width="90%" /></div>
+<div>With mor...
+Link: https://www.personneltoday.com/hr/employee-benefits-live-2024-conference-programme-unveiled/
+
+From source: https://www.hrdive.com/feeds/news/
+Language: EN
+Category: Other
+Headline: EEOC: Employer refused remote work for employee who had stroke, violating ADA
+Description: <figure><div><img src="https://www.hrdive.com/imgproxy/MZm358gyV29aGsBWm4kR5LtRP1Ga1pXrR6vzNbuxvG0/g:ce/rs:fill:1600:900:1/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTQ5NzIyMTkyNF95TzQ3YjRDLmpwZw==.webp...
+Link: https://www.hrdive.com/news/eeoc-company-violated-ada-by-denying-remote-work-osmose-utilities-services/727730/
+---
+Language: EN
+Category: Other
+Headline: Employers are pouring resources into EVPs — and workers may have no idea
+Description: <figure><div><img src="https://www.hrdive.com/imgproxy/JGHrL_SqhSRIUmhdiDt4iXzD_AcdX7Led2xkbuQLcTk/g:ce/rs:fill:1600:900:1/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTIxNTkzODI4NTMuanBn.webp" /></div></...
+Link: https://www.hrdive.com/news/communicate-employee-value-proposition/727753/
 
