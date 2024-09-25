@@ -1,4 +1,4 @@
-Multilingual Employer Branding and Talent Attraction Updates - 2024-09-24 09:24:36
+Multilingual Employer Branding and Talent Attraction Updates - 2024-09-25 09:24:38
 
 From source: https://www.personneltoday.com/feed/
 Language: EN
@@ -7,13 +7,7 @@ Headline: How HR can build a future-ready workforce amid uncertainty
 Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2024/09/shutterstock_2476283777-1.jpg" width="90%" /></div>
 <div>Successful talent management t...
 Link: https://www.personneltoday.com/hr/how-hr-leaders-can-build-a-future-ready-workforce-amid-uncertainty/
----
-Language: EN
-Category: Campaigns
-Headline: Employee Benefits Live 2024 conference programme unveiled
-Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2024/09/EB-Live-conference-2024-0Y0A1223RedRabbitEB2023.jpg" width="90%" /></div>
-<div>With mor...
-Link: https://www.personneltoday.com/hr/employee-benefits-live-2024-conference-programme-unveiled/
+
 
 From source: https://www.hrdive.com/feeds/news/
 Language: EN
@@ -24,7 +18,7 @@ Link: https://www.hrdive.com/news/eeoc-company-violated-ada-by-denying-remote-wo
 ---
 Language: EN
 Category: Other
-Headline: Employers are pouring resources into EVPs — and workers may have no idea
-Description: <figure><div><img src="https://www.hrdive.com/imgproxy/JGHrL_SqhSRIUmhdiDt4iXzD_AcdX7Led2xkbuQLcTk/g:ce/rs:fill:1600:900:1/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTIxNTkzODI4NTMuanBn.webp" /></div></...
-Link: https://www.hrdive.com/news/communicate-employee-value-proposition/727753/
+Headline: No, not all companies are abandoning diversity, equity and inclusion. Here’s why.
+Description: <figure><div><img src="https://www.hrdive.com/imgproxy/9u7lvh-4KC2RCIFK4Vl2KhX5sioT5H2S6pKmzk7PC5Q/g:nowe:0:448/c:8234:4651/rs:fill:1600:900:1/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE0ODE4NDA1NDIua...
+Link: https://www.hrdive.com/news/retail-dei-diversity-equity-inclusion-woke-policy-changes/727884/
 
