@@ -1,4 +1,4 @@
-Multilingual Employer Branding and Talent Attraction Updates - 2024-11-19 09:25:29
+Multilingual Employer Branding and Talent Attraction Updates - 2024-11-20 09:25:11
 
 From source: https://www.personneltoday.com/feed/
 Language: EN
@@ -7,4 +7,11 @@ Headline: Why mentoring in the hybrid era is key to employee engagement
 Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2024/07/mentoring-shutterstock_2087426509.jpg" width="90%" /></div>
 <div>Mentoring is too often...
 Link: https://www.personneltoday.com/hr/mentoring-hybrid-working-employee-engagement/
+
+From source: https://www.hrdive.com/feeds/news/
+Language: EN
+Category: Other
+Headline: Department of Defense must face charge that use of breathalyzer test was discrimination, court decides
+Description: <figure><div><img src="https://imgproxy.divecdn.com/hfN1Y7M5RVFixg9aa1YUDTeYpZBow11ecTRe9kzEVPM/g:ce/rs:fill:1600:900:1/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTE2MDc4NTVfb1ZJMGxiUy5qcGc=.webp" /></d...
+Link: https://www.hrdive.com/news/department-defense-lawsuit-discrimination-alcoholism-breathalyzer/733348/
 
