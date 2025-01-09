@@ -1,4 +1,4 @@
-Multilingual Employer Branding and Talent Attraction Updates - 2025-01-08 09:23:48
+Multilingual Employer Branding and Talent Attraction Updates - 2025-01-09 09:23:32
 
 From source: https://www.hrdive.com/feeds/news/
 Language: EN
@@ -6,11 +6,4 @@ Category: Other
 Headline: McDonald’s cools on DEI, shifts to ‘global inclusion’
 Description: <figure><div><img src="https://imgproxy.divecdn.com/22mDLp2yReqEcgdjzgxyUJxhKvH89apuP2vvqPk_Fms/g:nowe:101:0/c:922:521/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMT...
 Link: https://www.hrdive.com/news/mcdonalds-dei-2025-global-inclusion/736721/
----
-Language: EN
-Category: Other
-Headline: What’s the difference between ‘time to fill’ and ‘time to hire’?
-Description: <p>Here&rsquo;s everything HR needs to know about both parts of the talent acquisition process.</p>
-Link: https://www.hrdive.com/news/time-to-fill-metrics-vs-time-to-hire/736522/
-
 
