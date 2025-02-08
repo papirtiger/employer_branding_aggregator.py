@@ -1,19 +1,4 @@
-Multilingual Employer Branding and Talent Attraction Updates - 2025-02-07 09:23:10
-
-From source: https://www.personneltoday.com/feed/
-Language: EN
-Category: Other
-Headline: Citigroup confirms hybrid working can continue
-Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2025/02/shutterstock_1781434433.jpg" width="90%" /></div>
-<div>Employees at Citigroup can conti...
-Link: https://www.personneltoday.com/hr/hybrid-working-citigroup/
----
-Language: EN
-Category: Research
-Headline: Welsh fire services accused of bullying and harassment
-Description: <div style="margin: 5px 5% 10px 5%;"><img src="https://www.personneltoday.com/wp-content/uploads/sites/8/2025/02/2YN4BWT.jpg" width="90%" /></div>
-<div>Two inquiries into workplace culture at Welsh fi...
-Link: https://www.personneltoday.com/hr/welsh-fire-services-culture-reports/
+Multilingual Employer Branding and Talent Attraction Updates - 2025-02-08 09:20:13
 
 From source: https://www.hrdive.com/feeds/news/
 Language: EN
@@ -21,22 +6,4 @@ Category: Other
 Headline: This week in 5 numbers: Remote work grows for the highest earners
 Description: <figure><div><img src="https://imgproxy.divecdn.com/TqKBImeY3zClgPEb5d6EVTJ2QCmi5gsxmRIIxLxtghk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzU1MzAyOTcyX285VE9p...
 Link: https://www.hrdive.com/news/remote-work-growing-for-highest-earners/739478/
----
-Language: EN
-Category: Other
-Headline: Forget the company car. Top earners want remote work.
-Description: <figure><div><img src="https://imgproxy.divecdn.com/RszbjVdlVe7n7A3E0myUcWoIBc9jadCcx05HkuPE1MM/g:nowe:0:476/c:5408:3055/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0x...
-Link: https://www.hrdive.com/news/top-earners-want-remote-work/739395/
----
-Language: EN
-Category: Research
-Headline: Employee engagement surveys paint a distorted picture, survey finds
-Description: <figure><div><img src="https://imgproxy.divecdn.com/sYjJxdgghhV9vzPPVbYAnDYTNoq6fMzh8cOGEenXBTo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MjA5NjI1MC5qcGc=.web...
-Link: https://www.hrdive.com/news/engagement-surveys-paint-a-distorted-picture/739260/
----
-Language: EN
-Category: Other
-Headline: Union contracts won’t impede Trump’s remote work order for feds, OPM says
-Description: <figure><div><img src="https://imgproxy.divecdn.com/mFi0poE_T3ly-l8oztNR24chPzOFSvKT6le5iBoLgA0/g:nowe:0:24/c:3000:1694/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy00N...
-Link: https://www.hrdive.com/news/union-contracts-impede-trump-remote-work-order/739332/
 
