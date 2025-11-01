@@ -1,4 +1,4 @@
-Multilingual Employer Branding and Talent Attraction Updates - 2025-10-31 09:27:51
+Multilingual Employer Branding and Talent Attraction Updates - 2025-11-01 09:23:34
 
 From source: https://www.hrdive.com/feeds/news/
 Language: EN
@@ -6,11 +6,4 @@ Category: Other
 Headline: This week in 5 numbers: Hybrid work is upping traffic congestion
 Description: <figure><div><img src="https://imgproxy.divecdn.com/SqPgUn4aGbMN4cwIX_M3pHs2c6frohuJFam_cAaMzlc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MjUzNjIwNDguanBn.web...
 Link: https://www.hrdive.com/news/hybrid-work-upping-traffic-congestion/804292/
----
-Language: EN
-Category: Other
-Headline: Is there no ‘good’ DEI? 5 moments from SHRM’s Robby Starbuck, Van Jones panel
-Description: <p>The panelists butted heads on DEI&rsquo;s utility &mdash; and whether it should exist at all.</p>
-Link: https://www.hrdive.com/news/shrm-dei-robby-starbuck-van-jones-blueprint-inclusion/804150/
-
 
